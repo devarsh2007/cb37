@@ -12,5 +12,5 @@ void main()
 
       area = ( b/2 )* h ;
 
-      printf("%f",area);
+      printf("area of triangle : %f",area);
 }
