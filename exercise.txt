@@ -1,0 +1,1 @@
+1)write a program that calculate area of circle - pi x r x r
